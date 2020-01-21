@@ -4,17 +4,13 @@
 
 Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1: (MAC2312 - Section 2)
-Analytic Geometry and Calculus 2
-
-- Course 2: (CTS2375 - Section 1)
-Cloud Implementation Strategies and Cloud Providers
-
-- Course 3: (COP2073 - Section 1)
-Introduction to Data Science
-
-- Course 4: (EGN3448 - Section 1)
-Operations Research
+| Prefix | Number | Name | Credits |
+|:------:|:-----:|---------|:------:|
+|**MAC**|**2312**|_Analytic Geometry and Calculus 2_|4|
+|**CTS**|**2375**|_Cloud Implementation Strategies and Cloud Providers_|3|
+|**COP**|**2073**|_Introduction to Data Science_|3|
+|**EGN**|**3448**|_Operations Research_|3|
+Table: Spring 2020 Course Schedule
 
 **Hobbies:**
 
